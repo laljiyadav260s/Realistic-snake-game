@@ -1,0 +1,6 @@
+{
+  "name": "Realistic Snake Simulator",
+  "description": "A realistic serpentine snake simulation featuring procedural scales, inverse kinematics slithering, prey hunting, and realistic species.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
